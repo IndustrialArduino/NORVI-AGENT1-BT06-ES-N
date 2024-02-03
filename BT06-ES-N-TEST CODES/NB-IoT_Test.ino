@@ -1,5 +1,7 @@
 #define RXD2 4
 #define TXD2 2
+
+#define PIN  5
 #define RES  19
 
 void setup() {
